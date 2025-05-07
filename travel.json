@@ -38,6 +38,22 @@
           }
         ]
       }
+      ,
+      {
+        "location": "London",
+        "arrivalDate": "2025-07-01",
+        "departureDate": "2025-07-10",
+        "activities": [
+          {
+            "title": "London eye",
+            "time": "11:00 AM"
+          },
+          {
+            "title": "Buckingham palace",
+            "time": "3:00 PM"
+          }
+        ]
+      }
     ]
   }
 
