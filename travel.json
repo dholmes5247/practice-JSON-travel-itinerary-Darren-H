@@ -1,0 +1,43 @@
+{
+    "tripName": "European Adventure",
+    "traveler": {
+      "name": "Darren Holmes",
+      "contact": {
+        "email": "darren.holmes@mail.com",
+        "phone": "+33 0617 9720 03"
+      }
+    },
+    "destinations": [
+      {
+        "location": "Montagne Sainte Victoire",
+        "arrivalDate": "2025-06-10",
+        "departureDate": "2025-06-11",
+        "activities": [
+          {
+            "title": "Climb the South Face",
+            "time": "10:00 AM"
+          },
+          {
+            "title": "Hike to Monastery on Top",
+            "time": "2:00 PM"
+          }
+        ]
+      },
+      {
+        "location": "Village de Cassis",
+        "arrivalDate": "2025-06-12",
+        "departureDate": "2025-06-13",
+        "activities": [
+          {
+            "title": "Une degustation de vins et d'huitres",
+            "time": "11:00 AM"
+          },
+          {
+            "title": "Prommenade sur la Plage",
+            "time": "3:00 PM"
+          }
+        ]
+      }
+    ]
+  }
+
